@@ -1,0 +1,29 @@
+
+#price {
+    background-color:lightcyan;
+    color:black;
+}
+.coloring{
+    color: blue;
+    background-color: yellowgreen;
+}
+
+.mybutton{
+    width:150px;
+    height:150px;
+    margin:20px;
+    padding: 5px;
+border:solid black 1px;
+position: relative;
+}
+
+.mybutton img{
+    
+    width:400%;
+    position: absolute;
+  clip: rect(0, 100px, 100px, 0);
+    
+}
+.footer{
+    
+}
